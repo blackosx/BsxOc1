@@ -11,6 +11,9 @@ A set of PNG files wrapped in Apple .icns file format suitable for using as a th
 **Initial Setup of OpenCanopy**<br>
 Please refer to [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencore-s-gui) at dortania.
 
+**Compatible with OpenCore Version**<br>
+0.6.8
+
 **Using this theme**<br>
 The Resources directory from this repo contains just the Image dir for the EFI/OC/Resources/Image dir you will have setup for OpenCanopy (if not, see the above setup link.)
 
